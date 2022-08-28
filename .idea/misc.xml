@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/drawable/edittext_background.xml" value="0.141" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/drawable/ic_add.xml" value="0.141" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.141" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.141" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_create_account.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_new_note.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_user_info.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/item_note.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
