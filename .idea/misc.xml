@@ -8,11 +8,13 @@
         <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.141" />
         <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.141" />
         <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_create_account.xml" value="0.33" />
-        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_all_notes.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_create_account.xml" value="0.18" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_login.xml" value="0.18" />
         <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_new_note.xml" value="0.184375" />
-        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_user_info.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/fragment_user_info.xml" value="0.22" />
         <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/layout/item_note.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/NoteApp_Ktor/app/src/main/res/menu/main_menu.xml" value="0.2" />
       </map>
     </option>
   </component>

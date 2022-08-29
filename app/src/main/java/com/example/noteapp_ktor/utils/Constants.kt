@@ -5,7 +5,7 @@ object Constants {
     const val NAME_KEY = "NAME_KEY"
     const val EMAIL_KEY = "EMAIL_KEY"
 
-    const val BASE_URL = "https://polar-retreat-31277.herokuapp.com"
+    const val BASE_URL = "http://192.168.1.108:8081"
     const val API_VERSION = "/v1"
 
 

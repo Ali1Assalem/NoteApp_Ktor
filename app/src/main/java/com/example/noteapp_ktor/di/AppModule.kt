@@ -3,7 +3,10 @@ package com.example.noteapp_ktor.di
 import android.content.Context
 import androidx.room.Room
 import com.example.noteapp_ktor.data.local.NoteDatabase
+import com.example.noteapp_ktor.data.local.dao.NoteDao
 import com.example.noteapp_ktor.data.remote.NoteApi
+import com.example.noteapp_ktor.repository.NoteRepo
+import com.example.noteapp_ktor.repository.NoteRepoImpl
 import com.example.noteapp_ktor.utils.Constants
 import com.example.noteapp_ktor.utils.SessionManager
 import com.google.gson.Gson
@@ -71,7 +74,7 @@ object AppModule {
 
     }
 
-/**
+
     @Singleton
     @Provides
     fun provideNoteRepo(
@@ -85,7 +88,7 @@ object AppModule {
             sessionManager
         )
     }
-*/
+
 
 
 }
